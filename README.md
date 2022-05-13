@@ -5,7 +5,7 @@ CompEL **ARROW** :bow_and_arrow: :dart:
 
 Arrow is a fast script (ETA 2 minutes) for a better (graphical) estimation of several parameters (listed below) in Computational Electrophysiology (CompEL) MD simulations. The double membrane partitions into two compartments A and B is estimated from the .gro file of the duplicated system using split-group0 and split-group1.
 
-For the script send an email to barbierialessandro@hotmail.it
+For the script send an email to barbierialessandro@hotmail.it with object "CompEL-Arrow"
 
 **List of parameters**: 
 
