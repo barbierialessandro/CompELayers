@@ -7,6 +7,8 @@ Arrow is a fast script (ETA 2 minutes) for a better (graphical) estimation of se
 
 For the script send an email to barbierialessandro@hotmail.it with object "CompEL-Arrow"
 
+Please send back any feedback for improving it !
+
 **List of parameters**: 
 
 - bulk-offsetA = 0.00 
