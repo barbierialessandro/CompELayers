@@ -9,6 +9,8 @@ For the script send an email to barbierialessandro@hotmail.it with object "CompE
 
 Please send back any feedback for improving it !
 
+V1.0 March'22
+
 **List of parameters**: 
 
 - bulk-offsetA = 0.00 
