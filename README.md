@@ -20,8 +20,5 @@ Please send back any feedback for improving it !
 - cyl1-up      = 0.0 
 - cyl1-down    = 0.0
 
-
-![CompLANES_4](https://user-images.githubusercontent.com/100777525/168328301-58209d16-2804-4773-a650-fd48a437b7b6.png)
-
-
+![CompLANES_4](https://user-images.githubusercontent.com/100777525/168333135-5e0a0032-7219-4591-9840-f1f29db4677e.png)
 
