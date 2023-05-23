@@ -3,6 +3,8 @@ Computational Electrophysiology Scripts  (barbierialessandro@hotmail.it)
 
 **Tower** is a Bash/UCSFchimera script (ETA 30 seconds) for the graphical estimation of a list of parameters (bulk-offsetA/B, cyl0-r/up/down, cyl1-r/up/down) required by GROMACS for running **Computational Electrophysiology (CompEL)** simulations. 
 
+![CompLANES_4](https://user-images.githubusercontent.com/100777525/168336198-ea55569f-da06-4bd4-964f-5ddcc1e3180a.png)
+
 **Instructions**: The double membrane partition into two compartments A and B is estimated from the .gro and .ndx files of the duplicated system using split-group0 and split-group1 as basis. The user must define .gro ($1) and .ndx ($2) files and the names of the following subgroups that will be present in the new index: Splitgroup0 ($3), Splitgroup1 ($4) and a third group of your choice (generally Splitgroup0+Splitgroup1) that will be present in the new index file (tower.ndx). 
 
 WARNING! The colouring of the layers might be inverted. Required software: UCSF Chimera, Gromacs 
@@ -27,8 +29,6 @@ WARNING! The colouring of the layers might be inverted. Required software: UCSF 
 - cyl1-r       = 0.0      ; same for the other unit 
 - cyl1-up      = 0.0 
 - cyl1-down    = 0.0
-
-![CompLANES_4](https://user-images.githubusercontent.com/100777525/168336198-ea55569f-da06-4bd4-964f-5ddcc1e3180a.png)
 
 https://user-images.githubusercontent.com/100777525/173398925-21928f1f-0002-418a-a3ea-b794d9e77e8b.mp4
 
