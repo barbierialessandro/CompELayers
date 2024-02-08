@@ -1,7 +1,7 @@
-# Tower (CompEL) 🗼 v1.0
+# CompELayers 🗼 v1.0
 Computational Electrophysiology Scripts  (barbierialessandro@hotmail.it)
 
-**Tower** is a Bash/UCSFchimera script (ETA 30 seconds) for the graphical estimation of a list of parameters (bulk-offsetA/B, cyl0-r/up/down, cyl1-r/up/down) required by GROMACS for running **Computational Electrophysiology (CompEL)** simulations. 
+**CompELayers** is a Bash/UCSFchimera script (ETA 30 seconds) for the graphical estimation of a list of parameters (bulk-offsetA/B, cyl0-r/up/down, cyl1-r/up/down) required by GROMACS for running **Computational Electrophysiology (CompEL)** simulations. 
 
 ![CompLANES_4](https://user-images.githubusercontent.com/100777525/168336198-ea55569f-da06-4bd4-964f-5ddcc1e3180a.png)
 
@@ -9,7 +9,7 @@ Computational Electrophysiology Scripts  (barbierialessandro@hotmail.it)
 
 WARNING! The colouring of the layers might be inverted. Required software: UCSF Chimera, Gromacs 
 
-**tower-compel.sh** _$1 $2 $3 $4 $5_
+**CompELayers.sh** _$1 $2 $3 $4 $5_
 
 **STEP1 : List of input files for the creation of tower.ndx (GROMACS installed)**:
 - doublegro="$1"          _; Filename.gro of the duplicated system_
