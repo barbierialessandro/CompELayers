@@ -1,4 +1,4 @@
-# CompELayers 🗼 v1.0
+# CompELayers 🗼 v1.1 June'24
 Computational Electrophysiology Scripts  (barbierialessandro@hotmail.it)
 
 **CompELayers** is a Bash/UCSFchimera script (ETA 30 seconds) for the graphical estimation of a list of parameters (bulk-offsetA/B, cyl0-r/up/down, cyl1-r/up/down) required by GROMACS for running **Computational Electrophysiology (CompEL)** simulations. 
